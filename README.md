@@ -3,8 +3,7 @@ I am BO, a Software Engineer. I love open source.<br>
 
 <br><br>1.  🧑 **PERSONA**<br>
 
-&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Kenya 🇰🇪<br>
-&emsp;&emsp;&emsp;**Physique**&emsp;&emsp;&emsp;: “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.<br>
+&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Bolivia 🇰🇪<br>
 
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
@@ -13,9 +12,9 @@ I am BO, a Software Engineer. I love open source.<br>
      ii. Backend Development: - SpringBoot, PHP.               
     iii. Shell Scripting: - Bash programming.    
      iv. Databases: - MySQL, Postgres.            
-      v. UX/UI Design: - Adobe XD, Figma.             
-     vi. Virtualization: - VMWARE.
-     vii. Operating Systems: - Linux - Arch Linux(Mostly), Pop OS(Gaming, Backup OS), (Kali, Fedora, Debian OS, Ubuntu (Testing Shell Sripts)), Windows.
+      v. UX/UI Design: - Adobe XD.             
+     vi. Virtualization: - Docker.
+     vii. Operating Systems: - Linux - (Kali, Ubuntu (Testing Shell Sripts)), Windows.
              
 
 <br><br>3.  ✨ **OPEN SOURCE**<br>
@@ -52,9 +51,9 @@ I am BO, a Software Engineer. I love open source.<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Serius69&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Serius69&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Serius69&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
 
 <!--
 <br>
@@ -63,7 +62,7 @@ I am BO, a Software Engineer. I love open source.<br>
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Serius69&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
